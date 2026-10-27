@@ -20,7 +20,7 @@ Volver a [[Inicio]] · Ver [[Reparto por PCs]]
 | Núcleo de tareas y calendario (dominio, puerto, casos de uso, adaptadores) | `feature/pc1-tareas` | ⏳ Pendiente | Tablas ya creadas en Supabase |
 | Revisar y fusionar las PR de PC 2, 3 y 4 | — | 🔄 Continuo | |
 
-### 📱 PC 2 · Pantallas · OpenCode
+### 📱 PC 2 · Pantallas · Claude
 Solo `src/app/`, `src/ui/hooks/` y `src/ui/vistas/`.
 
 | Tarea | Rama | Estado | Notas |
